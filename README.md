@@ -2,6 +2,8 @@
 [![Chika99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chika99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 **🐱 My GitHub Data** 
@@ -45,13 +47,14 @@ Sunday       36 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     33 mins             █████████████████████████   100.0%
+Java                     53 mins             ████████████████████████░   98.77% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
 
 🔥 Editors: 
-IntelliJ                 33 mins             █████████████████████████   100.0%
+IntelliJ                 53 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.0%
+Mac                      53 mins             █████████████████████████   100.0%
 
 ```
 
@@ -72,7 +75,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Chika99/Chika99/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2022 04:25:14 UTC
+ Last Updated on 23/01/2022 17:47:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
