@@ -2,7 +2,7 @@
 [![Chika99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chika99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -45,17 +45,16 @@ Sunday       58 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     7 hrs 11 mins       ███████████████████████░░   94.75% 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
-Vue.js                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Java                     7 hrs 34 mins       ████████████████████████░   96.39% 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-IntelliJ                 7 hrs 11 mins       ███████████████████████░░   94.75% 
-WebStorm                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
+IntelliJ                 7 hrs 34 mins       ████████████████████████░   96.39% 
+WebStorm                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.61%
 
 💻 Operating System: 
-Mac                      7 hrs 35 mins       █████████████████████████   100.0%
+Mac                      7 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +75,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Chika99/Chika99/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/04/2022 04:26:47 UTC
+ Last Updated on 15/04/2022 04:42:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
