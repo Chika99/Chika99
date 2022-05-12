@@ -2,7 +2,7 @@
 [![Chika99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chika99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,13 +47,16 @@ Sunday       58 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     1 hr 6 mins         █████████████████████████   100.0%
+Java                     1 hr 6 mins         ████████████████████████░   98.66% 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-IntelliJ                 1 hr 6 mins         █████████████████████████   100.0%
+IntelliJ                 1 hr 6 mins         ████████████████████████░   98.66% 
+GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.0%
+Mac                      1 hr 7 mins         █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +77,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Chika99/Chika99/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 04:43:35 UTC
+ Last Updated on 12/05/2022 04:36:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
