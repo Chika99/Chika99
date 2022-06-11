@@ -47,15 +47,13 @@ Sunday       58 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     4 hrs 5 mins        ████████████████████████░   97.31% 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 4 hrs 12 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 12 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,7 +74,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Chika99/Chika99/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/06/2022 04:32:14 UTC
+ Last Updated on 11/06/2022 04:28:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
