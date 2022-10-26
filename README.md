@@ -2,7 +2,7 @@
 [![Chika99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chika99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,7 +78,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Chika99/Chika99/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/10/2022 04:45:50 UTC
+ Last Updated on 26/10/2022 04:28:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
