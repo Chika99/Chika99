@@ -47,17 +47,13 @@ Sunday       31 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     5 mins              ████████████████░░░░░░░░░   63.56% 
-Vue.js                   3 mins              ████████░░░░░░░░░░░░░░░░░   35.37% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 5 mins              ████████████████░░░░░░░░░   64.21% 
-WebStorm                 3 mins              █████████░░░░░░░░░░░░░░░░   35.79%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -78,7 +74,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Chika99/Chika99/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2022 04:25:59 UTC
+ Last Updated on 01/11/2022 04:37:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
